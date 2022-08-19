@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rubeena180
+- 👋 Hi, I’m @Rubeena
 - 👀 I’m interested in Salesforce + JAVA + LWC
 - 🌱 I’m currently learning LWC
 - 💞️ I’m looking to collaborate on ...
